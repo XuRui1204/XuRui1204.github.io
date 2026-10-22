@@ -14,6 +14,16 @@ I bought my camera in March 2025.
 <div class="gallery-grid">
 
   <div class="gallery-item">
+    <img src="/images/gallery/Fukuoka,Japan,20261015.JPG" alt="Fukuoka, Japan, 2026.10.15" loading="lazy">
+    <p class="caption">Fukuoka, Japan, 2026.10.15</p>
+  </div>
+
+  <div class="gallery-item">
+    <img src="/images/gallery/Fukuoka,Japan,20261012.jpg" alt="Fukuoka, Japan, 2026.10.12" loading="lazy">
+    <p class="caption">Fukuoka, Japan, 2026.10.12</p>
+  </div>
+
+  <div class="gallery-item">
     <img src="/images/gallery/20260903-Chongqing.JPG" alt="Chongqing, China, 2026.9.3" loading="lazy">
     <p class="caption">Chongqing, China, 2026.9.3</p>
   </div>
